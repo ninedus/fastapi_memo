@@ -1,0 +1,4 @@
+venv
+*.bat
+*.db
+__pycache__
